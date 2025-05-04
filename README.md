@@ -201,4 +201,4 @@ While the setup covers the basics, you can fine-tune the scripts via the constan
 
 ## License
 
-[**MIT License]
+This project is licensed under the MIT License - see the LICENSE file for details.
